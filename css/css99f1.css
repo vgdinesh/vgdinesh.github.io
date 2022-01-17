@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: italic;
+  font-weight: 100;
+  src: local('Roboto Mono Thin Italic'), local('RobotoMono-ThinItalic'), url(https://fonts.gstatic.com/s/robotomono/v7/L0xlDF4xlVMF-BfR8bXMIjhOkx6mXJqD.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Roboto Mono Light Italic'), local('RobotoMono-LightItalic'), url(https://fonts.gstatic.com/s/robotomono/v7/L0xmDF4xlVMF-BfR8bXMIjhOk9a0T7mjAw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Roboto Mono Italic'), local('RobotoMono-Italic'), url(https://fonts.gstatic.com/s/robotomono/v7/L0x7DF4xlVMF-BfR8bXMIjhOm3mWXw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Roboto Mono Medium Italic'), local('RobotoMono-MediumItalic'), url(https://fonts.gstatic.com/s/robotomono/v7/L0xmDF4xlVMF-BfR8bXMIjhOk461T7mjAw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Roboto Mono Bold Italic'), local('RobotoMono-BoldItalic'), url(https://fonts.gstatic.com/s/robotomono/v7/L0xmDF4xlVMF-BfR8bXMIjhOk8azT7mjAw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Roboto Mono Thin'), local('RobotoMono-Thin'), url(https://fonts.gstatic.com/s/robotomono/v7/L0x7DF4xlVMF-BfR8bXMIjAom3mWXw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Mono Light'), local('RobotoMono-Light'), url(https://fonts.gstatic.com/s/robotomono/v7/L0xkDF4xlVMF-BfR8bXMIjDgiWq1f7o.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Mono'), local('RobotoMono-Regular'), url(https://fonts.gstatic.com/s/robotomono/v7/L0x5DF4xlVMF-BfR8bXMIjhPq3o.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Roboto Mono Medium'), local('RobotoMono-Medium'), url(https://fonts.gstatic.com/s/robotomono/v7/L0xkDF4xlVMF-BfR8bXMIjC4iGq1f7o.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Mono Bold'), local('RobotoMono-Bold'), url(https://fonts.gstatic.com/s/robotomono/v7/L0xkDF4xlVMF-BfR8bXMIjDwjmq1f7o.ttf) format('truetype');
+}
